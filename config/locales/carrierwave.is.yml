@@ -1,0 +1,4 @@
+is:
+  carrierwave:
+    errors:
+      integrity: 'is not an allowed type of file.'

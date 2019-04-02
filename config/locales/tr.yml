@@ -1,4 +1,4 @@
-en:
+tr:
   locomotive:
     locales:
       en: English
@@ -37,8 +37,10 @@ en:
       ko: Korean
       lt: Lithuanian
       lv: Latvian
+      el: Greek
       tr: Turkish
       is: Icelandic
+
     messages:
       confirm: Are you sure?
       unsaved_content_warning: "This page is asking you to confirm that you want to leave - data you have entered may not be saved."

@@ -1,4 +1,4 @@
-en:
+is:
   locomotive:
     locales:
       en: English
@@ -32,13 +32,7 @@ en:
       sv-FI: Swedish/Finnish
       fi-FI: Finnish
       da: Danish
-      ar: Arabic
-      vi: Vietnamese
-      ko: Korean
-      lt: Lithuanian
-      lv: Latvian
-      tr: Turkish
-      is: Icelandic
+
     messages:
       confirm: Are you sure?
       unsaved_content_warning: "This page is asking you to confirm that you want to leave - data you have entered may not be saved."

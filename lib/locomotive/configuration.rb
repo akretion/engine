@@ -2,7 +2,7 @@ module Locomotive
   class Configuration
 
     @@default_locales = %w{en de fr bg cs da el es ca fa-IR fi-FI it ja-JP lt nl pl-PL pt pt-BR ru sv sv-FI uk zh-CN}
-    @@site_locales  = @@default_locales + %w{ar hr lt lv et ko nb sk sl sr vi}
+    @@site_locales  = @@default_locales + %w{ar hr lt lv et ko nb sk sl sr vi tr is}
 
     @@defaults = {
       name:                         'Locomotive',
